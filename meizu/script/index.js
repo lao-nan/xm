@@ -4,6 +4,8 @@ $('.banxin').load('../pages/header.html');
 
 
 
+
+
 // 轮播图
   var mySwiper = new Swiper ('.swiper-container', {
     direction: 'horizontal', // 水平切换选项
@@ -13,7 +15,8 @@ $('.banxin').load('../pages/header.html');
     pagination: {
       el: '.swiper-pagination',
     }
-  })        
+  })    
+  
 
 
 

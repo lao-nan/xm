@@ -16,12 +16,11 @@ $('.nav li').mouseenter(function () {
         dataType: 'json',
         cache: false,
         success: function (json) {
-    console.log('bonson'+(showindex+1))
+        $('.boxson'+(prev+1)+' '+'.center').empty();
        json['bonson'+(showindex+1)].forEach(function(item,idex) {
         var node=`<div><img src="${json['bonson'+(showindex+1)][idex].adr}" alt="">
         <p>${json['bonson'+(showindex+1)][idex].tro}<span>${json['bonson'+(showindex+1)][idex].price}</span></p>
         </div>`
-        console.log('.boxson'+(showindex+1) +' '+'.center')
         $('.boxson'+(showindex+1) +' '+'.center').append(node);
       });
         },

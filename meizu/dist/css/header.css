@@ -17,7 +17,6 @@
   .dao h1 {
     width: 125px;
     height: 24px;
-    color: #fefffd;
     font-size: 24px;
     float: left;
     position: relative; }
@@ -34,7 +33,6 @@
       .dao .nav li .upa {
         color: black; }
       .dao .nav li a {
-        color: #fefffd;
         font-size: 12px;
         text-decoration: none; }
         .dao .nav li a:hover {
@@ -60,49 +58,56 @@
     width: 100%;
     height: 185px;
     position: absolute;
-    top: 82px; }
+    top: 82px;
+    padding-left: 60px;
+    text-align: center; }
     .box .boxson1 .center {
-      width: 1240px;
+      width: 1400px;
       overflow: hidden;
       margin: 0 auto; }
       .box .boxson1 .center div {
         float: left;
-        width: 92px;
-        height: 147px;
+        width: 110px;
+        height: 157px;
         margin-left: 50px; }
         .box .boxson1 .center div img {
           width: 92px;
           height: 100px; }
         .box .boxson1 .center div p {
+          margin-top: 10px;
           font-size: 10px;
           color: #444444;
           text-align: center;
           line-height: 19px; }
           .box .boxson1 .center div p span {
+            margin-top: 10px;
             display: block; }
   .box .boxson2 {
     width: 100%;
     height: 185px;
     position: absolute;
-    top: 82px; }
+    top: 82px;
+    padding-left: 40px; }
     .box .boxson2 .center {
-      width: 1240px;
+      width: 1300px;
       overflow: hidden;
       margin: 0 auto;
       text-align: center; }
       .box .boxson2 .center div {
         float: left;
-        width: 143px;
+        width: 180px;
         height: 157px; }
         .box .boxson2 .center div img {
           width: 92px;
           height: 100px; }
         .box .boxson2 .center div p {
+          margin-top: 10px;
           font-size: 10px;
           color: #444444;
           text-align: center;
           line-height: 19px; }
           .box .boxson2 .center div p span {
+            margin-top: 10px;
             display: block; }
   .box .boxson3 {
     width: 100%;
@@ -116,16 +121,18 @@
       margin: 0 auto; }
       .box .boxson3 .center div {
         float: left;
-        width: 117px;
-        height: 140px; }
+        width: 135px;
+        height: 168px; }
         .box .boxson3 .center div img {
           width: 70px;
           height: 100px; }
         .box .boxson3 .center div p {
+          margin-top: 10px;
           font-size: 10px;
           color: #444444;
           line-height: 19px; }
           .box .boxson3 .center div p span {
+            margin-top: 10px;
             display: block; }
   .box .boxson4 {
     width: 100%;
@@ -134,20 +141,22 @@
     text-align: center;
     top: 82px; }
     .box .boxson4 .center {
-      width: 1240px;
+      width: 1300px;
       overflow: hidden;
       margin: 0 auto; }
       .box .boxson4 .center div {
         float: left;
-        width: 117px;
-        height: 147px; }
+        width: 137px;
+        height: 157px; }
         .box .boxson4 .center div img {
           width: 82px;
           height: 100px; }
         .box .boxson4 .center div p {
+          margin-top: 10px;
           font-size: 10px;
           color: #444444;
           text-align: center;
           line-height: 19px; }
           .box .boxson4 .center div p span {
+            margin-top: 10px;
             display: block; }
