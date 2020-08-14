@@ -1,1 +1,0 @@
-$('.head').load('../pages/header.html');
