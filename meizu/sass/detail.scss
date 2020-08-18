@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+}
+body,html{
+    width: 100%;
+    background: #f4f4f4;
+}
+.head{
+    width: 100%;
+    height: 82px;
+}
+.pht{
+    width: 1240px;
+    height: 144px;
+    overflow: hidden;
+    margin: 0 auto;
+    h3{
+        margin-top: 93px;
+        float: left;
+        font-weight: normal;
+        color: #535760;
+        font-size: 24px;
+    }
+    span{
+        margin-top: 100px;
+        float: right;
+        color: #3c3734;
+        font-size:14px;
+        margin-left: 30px;
+    }
+
+}
+.phone{
+    width: 1240px;
+    min-height: 900px;
+    margin:0 auto;
+    overflow: hidden;
+    .phnav{
+        width: 1260px;
+        li{
+            position: relative;
+            padding-top: 76px;
+            text-align: center;
+            float: left;
+            width: 403px;
+            height: 484px;
+            background: #ffffff;
+            margin-right: 15px;
+            margin-bottom: 15px;
+            .niu{
+                .circle{
+                    position: absolute;
+                    left:175px;
+                    bottom: 140px;
+                    z-index: 99;
+                    div{
+                        float: left;
+                        width: 18px;
+                        height: 18px;
+                        border-radius: 50%;
+                        margin-right: 15px;
+                    }
+                    .d1{
+                        background: #f3f3f3;
+                    }
+                    .d2{
+                        background: #2e3034;
+                    }
+                }
+                .wrap{
+                    position: absolute;
+                    width: 22px;
+                    height: 22px;
+                    border-radius: 50%;
+                    border: 1px solid #ababab;
+                    left: 172px;
+                    bottom: 137px;
+                
+                }
+            }
+            img{
+                width: 216px;
+                height: 264px;
+            }
+
+            .img1{
+                display: inline-block;
+            }
+
+            .img2{
+                display: none;
+            }
+
+            h3{
+                margin-top: 81px;
+                font-size: 22px;
+                color: #324856;
+            }
+            p{
+                margin-top: 13px;
+                font-size: 14px;
+                color: #4e5369;
+            }
+            h4{
+                margin-top: 22px;
+                font-size: 20px;
+                color: #b40000;
+                b{
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+
+}
+
+.dft{
+    width: 100%;
+    height:250;
+}

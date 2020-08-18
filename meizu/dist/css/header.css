@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none; }
+
+.dao {
+  position: absolute;
+  width: 1240px;
+  height: 82px;
+  line-height: 82px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  z-index: 105; }
+  .dao h1 {
+    width: 125px;
+    height: 24px;
+    font-size: 24px;
+    float: left;
+    position: relative; }
+  .dao .biglog {
+    color: blue; }
+  .dao .nav1 {
+    float: left;
+    margin-left: 94px; }
+    .dao .nav1 li {
+      text-align: center;
+      width: 68px;
+      height: 82px;
+      float: left; }
+      .dao .nav1 li .upa {
+        color: black; }
+      .dao .nav1 li a {
+        font-size: 12px;
+        text-decoration: none; }
+        .dao .nav1 li a:hover {
+          color: blue; }
+    .dao .nav1 .flyme {
+      width: 78.13px; }
+    .dao .nav1 .shop {
+      width: 82px; }
+    .dao .nav1 .company {
+      width: 96px; }
+    .dao .nav1 .app {
+      width: 96.02px; }
+    .dao .nav1 .search {
+      width: 120px;
+      border-radius: 20%; }
+      .dao .nav1 .search .cy {
+        width: 134px;
+        height: 34px; }
+        .dao .nav1 .search .cy input {
+          width: 134px;
+          height: 34px;
+          border-radius: 17px;
+          border: 1px solid #d9d9d9; }
+    .dao .nav1 .user {
+      position: relative;
+      width: 65px;
+      text-align: right; }
+      .dao .nav1 .user img {
+        width: 34px;
+        height: 34px;
+        border-radius: 50%; }
+      .dao .nav1 .user .user2 {
+        width: 65px;
+        position: absolute;
+        z-index: 106;
+        left: 15px;
+        top: 55px;
+        display: none; }
+        .dao .nav1 .user .user2 div {
+          width: 82px;
+          height: 31px;
+          border: 1px solid #efefef;
+          text-align: center;
+          line-height: 31px;
+          font-size: 11px;
+          color: #666666; }
+
+.box {
+  z-index: 99;
+  background: #fefffd;
+  width: 100%;
+  position: absolute;
+  margin: 0 auto;
+  top: 0;
+  overflow: hidden; }
+  .box .boxson1 {
+    width: 100%;
+    height: 185px;
+    position: absolute;
+    top: 82px;
+    padding-left: 60px;
+    text-align: center; }
+    .box .boxson1 .center {
+      width: 1400px;
+      overflow: hidden;
+      margin: 0 auto; }
+      .box .boxson1 .center div {
+        position: relative;
+        float: left;
+        width: 110px;
+        height: 157px;
+        margin-left: 50px;
+        z-index: 100; }
+        .box .boxson1 .center div img {
+          width: 92px;
+          height: 100px; }
+        .box .boxson1 .center div p {
+          margin-top: 10px;
+          font-size: 10px;
+          color: #444444;
+          text-align: center;
+          line-height: 10px; }
+        .box .boxson1 .center div span {
+          color: #444444;
+          font-size: 10px; }
+  .box .boxson2 {
+    width: 100%;
+    height: 185px;
+    position: absolute;
+    top: 82px;
+    padding-left: 40px; }
+    .box .boxson2 .center {
+      width: 1300px;
+      overflow: hidden;
+      margin: 0 auto;
+      text-align: center; }
+      .box .boxson2 .center div {
+        float: left;
+        width: 180px;
+        height: 157px; }
+        .box .boxson2 .center div img {
+          width: 92px;
+          height: 100px; }
+        .box .boxson2 .center div p {
+          margin-top: 10px;
+          font-size: 10px;
+          color: #444444;
+          text-align: center;
+          line-height: 10px; }
+        .box .boxson2 .center div span {
+          color: #444444;
+          font-size: 10px; }
+  .box .boxson3 {
+    width: 100%;
+    height: 185px;
+    position: absolute;
+    top: 82px; }
+    .box .boxson3 .center {
+      width: 1240px;
+      overflow: hidden;
+      text-align: center;
+      margin: 0 auto; }
+      .box .boxson3 .center div {
+        float: left;
+        width: 135px;
+        height: 168px; }
+        .box .boxson3 .center div img {
+          width: 70px;
+          height: 100px; }
+        .box .boxson3 .center div p {
+          margin-top: 10px;
+          font-size: 10px;
+          color: #444444;
+          text-align: center;
+          line-height: 10px; }
+        .box .boxson3 .center div span {
+          color: #444444;
+          font-size: 10px; }
+  .box .boxson4 {
+    width: 100%;
+    height: 185px;
+    position: absolute;
+    text-align: center;
+    top: 82px; }
+    .box .boxson4 .center {
+      width: 1300px;
+      overflow: hidden;
+      margin: 0 auto; }
+      .box .boxson4 .center div {
+        float: left;
+        width: 137px;
+        height: 157px; }
+        .box .boxson4 .center div img {
+          width: 82px;
+          height: 100px; }
+        .box .boxson4 .center div p {
+          margin-top: 10px;
+          font-size: 10px;
+          color: #444444;
+          text-align: center;
+          line-height: 10px; }
+        .box .boxson4 .center div span {
+          color: #444444;
+          font-size: 10px; }

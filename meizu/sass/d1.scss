@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body,html{
+    width: 100%;
+    height: 100%;
+    background: #effcfd;
+}
+.dl{
+    width: 296px;
+    height: 252px;
+    background: #ffffff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+
+    h3{
+        margin-top: 57px;
+        text-align: center;
+        font-size:15px;
+        color: #515151;
+    }
+
+
+
+    .user{
+        display: block;
+        width:  237px;
+        height: 39px;
+        margin: 29px auto; 
+
+        input{
+            width: 237px;
+            height: 39px;
+        }
+    }
+
+
+    .pass{
+        display: block;
+        width:  237px;
+        height: 39px;
+        margin: 29px auto; 
+
+        input{
+            width: 237px;
+            height: 39px;
+        }
+
+    }
+
+
+ .cao{
+     width: 237px;
+     height: 12px;
+     margin: 11px auto;
+     .fl{
+         display: block;
+         float: left;
+         font-size: 12px;
+         color: #387aff;
+     }
+
+
+     .fr{
+        display: block;
+        float: right;
+        font-size: 12px;
+        color: #387aff;
+    }
+
+ }
+
+
+
+    
+
+}
+
+
+.fot{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 250px;
+    background: saddlebrown;
+}
+

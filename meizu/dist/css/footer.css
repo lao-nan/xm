@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-weight: normal; }
+
+.footer {
+  width: 100%;
+  height: 250px;
+  background: #ffffff; }
+  .footer .foot1 {
+    width: 1240px;
+    height: 164px;
+    margin: 0 auto;
+    overflow: hidden; }
+    .footer .foot1 div {
+      float: left;
+      text-align: center; }
+      .footer .foot1 div p {
+        margin-top: 15px;
+        font-size: 10px;
+        color: #8d8d8d; }
+    .footer .foot1 .f1 {
+      padding-top: 51px;
+      width: 160px;
+      height: 113px; }
+    .footer .foot1 .f2 {
+      padding-top: 51px;
+      width: 139px;
+      height: 113px; }
+    .footer .foot1 .f3 {
+      padding-top: 51px;
+      width: 160px;
+      height: 113px; }
+    .footer .foot1 .f4 {
+      padding-top: 51px;
+      width: 142px;
+      height: 113px; }
+    .footer .foot1 .f5 {
+      padding-top: 51px;
+      width: 156px;
+      height: 113px; }
+    .footer .foot1 .f6 {
+      padding-top: 51px;
+      width: 144px;
+      height: 113px; }
+    .footer .foot1 .f7 {
+      position: relative;
+      width: 339px;
+      padding-top: 40px;
+      height: 124px; }
+      .footer .foot1 .f7 p {
+        text-align: right;
+        color: #afafaf;
+        font-size: 10px;
+        margin-right: 11px; }
+      .footer .foot1 .f7 span {
+        font-size: 20px;
+        color: #007cdd;
+        position: absolute;
+        font-weight: 700;
+        right: 11px; }
+      .footer .foot1 .f7 div {
+        text-align: center;
+        width: 86px;
+        height: 32px;
+        line-height: 32px;
+        border-radius: 20px;
+        margin-top: 48px;
+        background: #008bff;
+        opacity: 0.8;
+        float: right;
+        margin-right: 8px; }
+  .footer .foot2 {
+    width: 1240px;
+    height: 86px;
+    margin: 0 auto; }
+    .footer .foot2 .dh {
+      width: 1240px;
+      height: 31px; }
+      .footer .foot2 .dh ul li {
+        height: 31px;
+        line-height: 31px;
+        float: left;
+        margin-right: 15px;
+        color: #989898;
+        font-size: 12px; }
+      .footer .foot2 .dh ul .d {
+        font-size: 16px;
+        color: #d7d7d7; }
+      .footer .foot2 .dh .qiu {
+        width: 88px;
+        text-align: center;
+        position: relative; }
+        .footer .foot2 .dh .qiu img {
+          position: absolute;
+          top: 6px;
+          left: 0px;
+          width: 17px;
+          height: 17px;
+          border-radius: 50%; }
+        .footer .foot2 .dh .qiu .cd {
+          top: -120px;
+          position: absolute;
+          display: none; }
+          .footer .foot2 .dh .qiu .cd ul {
+            height: 155px; }
+            .footer .foot2 .dh .qiu .cd ul li {
+              width: 88px;
+              height: 31px;
+              background: #ffffff;
+              color: #919191;
+              display: block; }
+            .footer .foot2 .dh .qiu .cd ul .u {
+              opacity: 0; }
+    .footer .foot2 .zc {
+      width: 1240px;
+      height: 30px; }
+      .footer .foot2 .zc .zc1 {
+        width: 990px;
+        height: 30px;
+        float: left;
+        line-height: 30px; }
+        .footer .foot2 .zc .zc1 span {
+          font-size: 11px;
+          color: #b1b1b1;
+          margin-left: 11px; }
+        .footer .foot2 .zc .zc1 .s2 {
+          margin-left: 22px; }
+      .footer .foot2 .zc .zc2 {
+        width: 250px;
+        height: 30px;
+        float: right; }
+        .footer .foot2 .zc .zc2 ul li {
+          float: left;
+          width: 20px;
+          height: 30px;
+          margin-right: 11px; }
+        .footer .foot2 .zc .zc2 ul .w {
+          position: relative; }
+          .footer .foot2 .zc .zc2 ul .w .z1 {
+            position: absolute;
+            top: -250px;
+            left: -20px;
+            width: 250px;
+            height: 250px;
+            background: red;
+            display: none; }
+            .footer .foot2 .zc .zc2 ul .w .z1 img {
+              width: 250px;
+              height: 250px; }
+        .footer .foot2 .zc .zc2 ul .x {
+          position: relative; }
+          .footer .foot2 .zc .zc2 ul .x .z2 {
+            position: absolute;
+            top: -250px;
+            left: -75px;
+            width: 250px;
+            height: 250px;
+            background: red;
+            display: none; }
+            .footer .foot2 .zc .zc2 ul .x .z2 img {
+              width: 250px;
+              height: 250px; }

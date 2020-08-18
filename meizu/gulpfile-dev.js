@@ -58,7 +58,7 @@ task('connect',async ()=>{
   load.connect.server({
     root: './dist',
     livereload: true,
-    port: 3002
+    port: 3004
   });
 })
 
